@@ -35,12 +35,6 @@ export function SiteHeader() {
             </Link>
           ))}
         </nav>
-        <Link
-          to="/contact"
-          className="md:hidden text-sm text-foreground border border-border px-3 py-1.5"
-        >
-          Contact
-        </Link>
       </div>
       <nav className="md:hidden border-t border-border">
         <div className="container-page flex gap-4 overflow-x-auto py-3 text-xs" style={{ scrollbarWidth: 'none' }}>
