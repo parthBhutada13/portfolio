@@ -34,7 +34,7 @@ function ContactPage() {
             <div className="text-xs uppercase tracking-[0.2em] text-secondary mb-3">— Contact & Platforms</div>
             <ul className="space-y-2 text-foreground">
               <li><span className="text-foreground">◆ parthbhutada13@gmail.com</span></li>
-              <li><a className="hover:text-secondary transition" href="tel:7756048220">◆ 7756048220</a></li>
+
               <li><a className="hover:text-secondary transition" href="https://linkedin.com/in/parth-bhutada" target="_blank" rel="noopener noreferrer">◆ linkedin.com/in/parth-bhutada</a></li>
               <li><a className="hover:text-secondary transition" href="https://github.com/parthBhutada13" target="_blank" rel="noopener noreferrer">◆ github.com/parthBhutada13</a></li>
             </ul>
