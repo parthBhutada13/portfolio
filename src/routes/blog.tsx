@@ -17,7 +17,7 @@ const posts = [
   {
     t: "The Internet's GPS: A Deep Dive into the Network Layer (OSI Layer 3)",
     date: "October 24, 2025",
-    readTime: "5 min read",
+    readTime: "7 min read",
     excerpt: "Discover how the Network Layer (OSI Layer 3) enables your computer to find Google in milliseconds. This comprehensive guide breaks down IP addressing, routing protocols, and how packets travel across the internet with intuitive explanations of complex networking concepts.",
     fullDesc: "Ever wondered how your computer finds Google in milliseconds? This blog breaks down the Network Layer (OSI Layer 3) with intuitive explanations of how data travels across networks. Explore IP addressing schemes, routing algorithms, how packets navigate the internet infrastructure, and the fundamental protocols that power global connectivity.",
     url: "https://medium.com/@parthbhutada13/the-network-layer-b04a105d5313",

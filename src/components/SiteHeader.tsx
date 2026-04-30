@@ -43,7 +43,7 @@ export function SiteHeader() {
         </Link>
       </div>
       <nav className="md:hidden border-t border-border">
-        <div className="container-page flex gap-5 overflow-x-auto py-3 text-sm">
+        <div className="container-page flex gap-4 overflow-x-auto py-3 text-xs" style={{ scrollbarWidth: 'none' }}>
           {nav.map((n) => (
             <Link
               key={n.to}
